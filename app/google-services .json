@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362537695712",
+    "firebase_url": "https://leafy-envelope-241211.firebaseio.com",
+    "project_id": "leafy-envelope-241211",
+    "storage_bucket": "leafy-envelope-241211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362537695712:android:825afa11761202a5849385",
+        "android_client_info": {
+          "package_name": "io.swasthya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362537695712-pjvniduehjk43etnocfl0c9fittov3qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swasthya.myapplication",
+            "certificate_hash": "178ab3f136a5927ee33b0453537b33151da067fc"
+          }
+        },
+        {
+          "client_id": "362537695712-13b45a4q17nifas86snam5mpqc7k87kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vRqxUoqr3prpjrIpKE8iHlUvgW6trJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362537695712-13b45a4q17nifas86snam5mpqc7k87kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
